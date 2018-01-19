@@ -1,0 +1,36 @@
+#box {
+    border: 100px, solid, black;
+    margin: 30px;
+    height: 600px;
+    width: 600px;
+    float: right;
+    background-color: lightgrey;
+    position: relative;
+}
+
+.square {
+    background-color: red;
+}
+
+.shape {
+    position: absolute;
+    
+}
+
+.circle {
+    -moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+    border-radius: 50px;
+    background-color: purple;
+}
+
+.rectangle {
+    background-color: green;
+}
+
+.triangle {
+    /* border-top: 0px transparent transparent;
+	border-bottom: 100px solid yellow;
+    border-right: 100px solid transparent;
+    position: absolute; */
+}
